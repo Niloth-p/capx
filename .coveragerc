@@ -1,0 +1,3 @@
+[run]
+source = capx, events, map, skills, users
+omit = */migrations/*, */tests/*, *sgi.py
